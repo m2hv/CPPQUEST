@@ -19,7 +19,6 @@ CppQuest is an educational web application designed to help beginners learn C++ 
 - AI Assistance
 
 ## Live Demo
-Paste your Lovable website link here.
-
+[](https://friendly-folly-station.lovable.app)
 ## GitHub Repository
-Paste your GitHub repository link here.
+[](https://github.com/m2hv/CPPQUEST)
